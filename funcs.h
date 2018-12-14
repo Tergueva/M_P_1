@@ -1,4 +1,4 @@
-//hi
+//hii
 // заголовочный файл funcs.h
 #ifndef __FUNCS_H__ 
 #define __FUNCS_H__
